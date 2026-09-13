@@ -1,1 +1,2 @@
 This is my initial note for Lab 2.
+Updating notes file with a second line.
